@@ -38,3 +38,5 @@ After you choose this one, you will get a TXTX record from Google. Then you can 
 
 Please allow several hours for the verification. 
 After all these steps, you can now see your websites' apperence with decription words. And also, you can use "Google Analytics" to see the activities of your website (number of visits, pages been browsed, etc.)
+
+References: [Weebly Support](https://www.weebly.com/app/help/us/en/topics/verify-your-site-with-search-engines); [Google Support](https://support.google.com/webmasters/answer/34592?hl=en)
